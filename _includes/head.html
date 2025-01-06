@@ -40,7 +40,7 @@
 
   <title>
     {%- unless page.layout == 'home' -%}
-      {{ page.title | append: ' | ' }}
+      {{ page.title | downcase}}
     {%- endunless -%}
     {{ site.title }}
   </title>

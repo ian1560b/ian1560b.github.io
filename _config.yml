@@ -16,26 +16,26 @@ timezone:
 
 title: # the main title
 
-tagline: _alz-b # it will display as the sub-title
+tagline: _kzrin # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
 
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://alz-b.github.io"
+url: "https://blog.kzrin.zip"
 
 github:
-  username: alz-b # change to your github username
+  username: kzrin # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: alz-b
+  name: kzrin
   email: vvitch.spiffy498@passinbox.com
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/alz-b # change to your github homepage
+    - https://github.com/kzrin# change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -69,7 +69,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar/hq3.jpg
+avatar: /assets/img/avatar/kzrin.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
