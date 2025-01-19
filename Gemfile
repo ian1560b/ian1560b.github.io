@@ -4,6 +4,16 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 6.2", ">= 6.2.3"
 
+group :silence_warnings do
+  gem "csv"
+  gem "base64"
+  gem "jekyll-sass-converter", "~> 2.0"
+  gem "ostruct"
+  gem "logger"
+  gem "bigdecimal"
+  gem "fiddle"
+end
+
 group :test do
   gem "html-proofer", "~> 4.4"
 end
